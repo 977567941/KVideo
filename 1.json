@@ -446,5 +446,21 @@
         "group": "normal",
         "enabled": true,
         "priority": 56
-    }
+    },
+  {
+    "id": "baofeng_app_new",
+    "name": "暴风APP(CMS版)",
+    "baseUrl": "https://j.shurongshequ.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 60
+  },
+  {
+    "id": "yunbo_cms",
+    "name": "云播APP(CMS版)",
+    "baseUrl": "http://app.hktvyb.cc/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 61
+  }
 ]
